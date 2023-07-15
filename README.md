@@ -4,6 +4,7 @@ GCode-Skripten eröffnte im Keramik-3D-Druck vielfältige formale und konstrukti
 
 <a href="https://vimeo.com/845229248"> Zum Video </ahref>
 
-kontakt:
+Kontakt:
+<p>
 hello@catherinarocio.com
 m@marcomehringer.de
